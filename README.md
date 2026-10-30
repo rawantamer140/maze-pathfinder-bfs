@@ -53,10 +53,7 @@ Example: start `(0,0)` → goal `(7,7)` gives a solution cost of **14 steps**.
 
 > ⚠️ The interactive dashboard and animation work inside Google Colab / Jupyter only. GitHub shows the code but does not run the widgets.
 
-## 🖼️ Screenshots
-[PASTE SCREENSHOT OF THE DASHBOARD HERE]
 
-[PASTE SCREENSHOT OF THE ANIMATION / RESULTS HERE]
 
 ## 🗺️ Maze Layout (0 = open, 1 = wall)
 ```
